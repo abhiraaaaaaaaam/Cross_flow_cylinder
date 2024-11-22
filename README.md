@@ -1,7 +1,7 @@
 # Forced Convection over a Heated Cylinder: Simulation in COMSOL
 
 ## Overview
-This repository contains the COMSOL simulation file and related documentation for a project titled **"Forced Convection over a Heated Cylinder in Crossflow."** The goal of this project is to simulate and analyze the heat transfer and flow characteristics for a heated cylinder subjected to a uniform crossflow of colder air.
+This repository contains the COMSOL simulation file and related documentation to simulate and analyze the heat transfer and flow characteristics for a heated cylinder subjected to a uniform crossflow of colder air.
 
 ### Key Features of the Simulation:
 - Reynolds number range: 0.1 to 100 (adjusted by varying inlet velocity).
